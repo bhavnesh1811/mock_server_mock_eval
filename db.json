@@ -4,6 +4,32 @@
     ],
     "books":[
         
+    ],
+    "icecream":[
+        {
+            "id":1,
+            "name": "Dark Chocolate",
+            "Flavor": "Chocolate",
+            "Description": "Rich, creamy chocolate ice cream.",
+            "Price": 250,
+            "Stock": 10
+        },
+        {
+            "id":2,
+            "name": "Classic Vanilla",
+            "Flavor": "Vanilla",
+            "Description": "Classic vanilla ice cream.",
+            "Price": 200,
+            "Stock": 15
+        },
+        {
+            "id":3,
+            "name": "Neapolitan",
+            "Flavor": "Strawberry",
+            "Description": "Fresh and fruity strawberry ice cream.",
+            "Price": 300,
+            "Stock": 8
+        }
     ]
     
 }
