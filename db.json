@@ -27,5 +27,6 @@
       "Stock": 8
     }
   ],
-  "cart": []
+  "cart": [],
+  "orders": []
 }
